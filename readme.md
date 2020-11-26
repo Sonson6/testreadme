@@ -18,3 +18,4 @@ ceci est un peu de code
 3. est ordonnée
 
 Voici pour finir [un lien](https://guides.github.com/features/mastering-markdown/) pour devenir un as du markdown
+C'est tout pour les bases du Markdown
